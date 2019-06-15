@@ -11,7 +11,7 @@ $ apt install figlet
 $ pip2 install lolcat
 $ pip2 install mechanize
 $ pkg install git
-$ git clone
+$ git clone https://github.com/MrX-R15KY/Tools-Iky
 $ cd Tools-Iky
 $ sh Tools-Iky.sh
 ```
